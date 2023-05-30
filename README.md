@@ -1,2 +1,2 @@
-# course_project
-development of a database of geographical objects for a travel company
+# Курсовой проект на тему: "Разработка базы данных географических объектов для туристической компании"
+
